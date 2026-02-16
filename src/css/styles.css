@@ -393,7 +393,7 @@ section {
     }
 }
 
-
+/*
 #header-banner {
     width: auto;
     height: 100%;
@@ -430,6 +430,7 @@ section {
     margin-right: auto;
 }
 
+/*
 .service-icon {
     width: 120px;
     height: 120px;
@@ -455,6 +456,8 @@ section {
 #modern-icon {
     background: var(--dunkel-grau-2) url("../img/services-sprite.png") -240px 0;
 }
+
+*/
 
 .hinweis {
     text-align: center;
